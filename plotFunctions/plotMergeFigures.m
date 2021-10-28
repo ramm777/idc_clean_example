@@ -19,7 +19,7 @@ function h = plotMergeFigures(fig1, fig2, varargin)
 % SEE ALSO:
 %
 % AUTHOR:
-%   Amanzhol Kubeyev  
+%   Aidan Kubeyev  
 
 %{
 

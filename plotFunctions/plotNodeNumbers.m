@@ -18,7 +18,7 @@ function h = plotNodeNumbers(G, varargin)
 % SEE ALSO: gridCellNo()
 %
 % AUTHOR:
-%   Amanzhol Kubeyev  
+%   Aidan Kubeyev, 77777aidan@gmail.com
 
 %{
 

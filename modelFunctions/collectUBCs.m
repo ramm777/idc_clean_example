@@ -21,11 +21,9 @@ function disp_bc = collectUBCs(bc_el_sides)
 % SEE ALSO:
 %
 % AUTHOR:
-%   Amanzhol Kubeyev, based on MRST existing routines
+%   Aidan Kubeyev, based on MRST existing routines
 
 %{
-Copyright 2009-2021 SINTEF ICT, Applied Mathematics.
-
 This file is part of The MATLAB Reservoir Simulation Toolbox (MRST).
 
 MRST is free software: you can redistribute it and/or modify

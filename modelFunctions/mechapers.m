@@ -24,11 +24,9 @@ function [allmechapers, lensA] = mechapers(G, fnodes, s, allmechapers, lensA, va
 % SEE ALSO:
 %
 % AUTHOR:
-%   Amanzhol Kubeyev
+%   Aidan Kubeyev
 
 %{
-Copyright 2009-2021 SINTEF ICT, Applied Mathematics.
-
 This file is part of The MATLAB Reservoir Simulation Toolbox (MRST).
 
 MRST is free software: you can redistribute it and/or modify

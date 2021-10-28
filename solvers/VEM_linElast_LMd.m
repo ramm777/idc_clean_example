@@ -61,7 +61,7 @@ function [uu, extra] = VEM_linElast_LMd(G, C, el_bc, load, varargin)
 % SEE ALSO:
 %
 % AUTHOR:
-%   Aman Kubeyev (based on SINTEF's VEM_linElast() original code)
+%   Aidan Kubeyev (based on SINTEF's VEM_linElast() original code)
 
 %{
 This file is part of The MATLAB Reservoir Simulation Toolbox (MRST).
@@ -125,7 +125,7 @@ along with MRST.  If not, see <http://www.gnu.org/licenses/>.
     
     
     %----------------------------------------------------------------------
-    % MODIFIED (fixed a bug) by Amanzhol Kubeyev, how u_bc is collected
+    % MODIFIED (fixed a bug) by Aidan Kubeyev, how u_bc is collected
     
     [bcnodes, ~, i] = unique(bc.nodes); % i will be used in the original mask assignment
       
@@ -225,7 +225,7 @@ along with MRST.  If not, see <http://www.gnu.org/licenses/>.
         end
     end
     
-    %% CONTACT INTERACTION (modified by Amanzhol Kubeyev)
+    %% CONTACT INTERACTION (modified by Aidan Kubeyev)
     
     
     connodes = opt.connodes;

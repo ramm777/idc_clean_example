@@ -7,4 +7,4 @@ The main file to run is compaction.m using MATLAB programming language. However,
 
 Numerical grid can be selected from a lot of pre-defined grids using the natural Camel mudrock. Usually hard-coded grids are used in this module.  
 
-For more information, please refer to the publications by Dr Amanzhol Kubeyev 
+For more information, please refer to the publications by Dr Aidan Kubeyev 

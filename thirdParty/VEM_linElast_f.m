@@ -50,7 +50,7 @@ function [uu, extra] = VEM_linElast_f(G, C, el_bc, load, varargin)
 % SEE ALSO:
 %
 % AUTHOR:
-%   Base on the vemmech module in MRST, but a bug related to BCs fixed by Aman Kubeyev. Fixed error of incorrect u_bc prioritising, to prioritise mask 'true' first. 
+%   Base on the vemmech module in MRST, but a bug related to BCs fixed by Aidan Kubeyev. Fixed error of incorrect u_bc prioritising, to prioritise mask 'true' first. 
 
 %{
 This file is part of The MATLAB Reservoir Simulation Toolbox (MRST).

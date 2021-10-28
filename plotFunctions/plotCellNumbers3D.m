@@ -20,7 +20,7 @@ function h = plotCellNumbers3D(G, varargin)
 % SEE ALSO:
 % 
 % AUTHOR:
-%   Amanzhol Kubeyev  
+%   Aidan Kubeyev  
 
 %{
 

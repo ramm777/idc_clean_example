@@ -3,7 +3,7 @@
 % - Stresses are measured as a mean resultant at the boundary for Svk but they very close to the force_bc in Pa
 % - The simulation will run until specified 'final_stress'
 % - Mechanics stress convention, unless specified on the figure. 
-% - Author Amanzhol Kubeyev, aman85work@gmail.com
+% - Author Aidan Kubeyev, 77777aidan@gmail.com
 
 
 clear all 

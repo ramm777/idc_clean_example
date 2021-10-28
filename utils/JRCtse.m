@@ -27,7 +27,7 @@ function [z2 , jrc] = JRCtse(curve, res, stepsize, varargin)
 %   JRCmaerz()
 % 
 % AUTHOR:
-%   Aman Kubeyev  
+%   Aidan Kubeyev
 
 %{
 This file is part of The MATLAB Reservoir Simulation Toolbox (MRST).

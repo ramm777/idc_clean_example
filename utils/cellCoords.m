@@ -19,7 +19,7 @@ function coords =  cellCoords(G, cell)
 % SEE ALSO:
 % 
 % AUTHOR:
-%   Aman Kubeyev  
+%  Aidan Kubeyev
 
 %{
 This file is part of The MATLAB Reservoir Simulation Toolbox (MRST).
